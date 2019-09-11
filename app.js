@@ -1,3 +1,4 @@
+// Como este projeto é apenas o NODE, rodar o comando abaixo pra subir o server
 // docker run --rm -it -p8080:8080 -v $PWD:/app moreirapontocom/node:12.2.0 nodemon app
 
 /* importar as configurações do servidor */
